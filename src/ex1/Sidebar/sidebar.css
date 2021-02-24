@@ -1,0 +1,11 @@
+.sidebar{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: aqua;
+    color : #ffffff;
+    text-align: center;
+    height: 400px;
+    width: 20%;
+    /* width: 300px; */
+}
